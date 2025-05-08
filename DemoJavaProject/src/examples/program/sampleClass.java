@@ -5,7 +5,7 @@ public class sampleClass {
 	public static void main(String[] args) {
 		
 		System.out.println("Welcome");
-		//.out.println("Hello");
+		//System.out.println("Hello");
 		}
 
 }
